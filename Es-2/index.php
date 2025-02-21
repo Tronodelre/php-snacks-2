@@ -8,4 +8,5 @@ while ($_GET['min'] <= 20) {
     echo $_GET['min'];
     $_GET['min']++;
     }
+    
 ?>
