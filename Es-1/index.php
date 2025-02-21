@@ -7,5 +7,5 @@ if (isset($_GET['nome'])) { //se il parametro nome è presente
     echo "Ciao " . $_GET['nome']; // stampa il nome
     } else { //altrimenti
         echo "Ciao Sconosciuto!"; // stampa il messaggio di default
-        } 
+        }
 ?>
